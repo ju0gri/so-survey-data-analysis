@@ -32,7 +32,7 @@ data/
 ## Solution
 
 The solution for the above questions can be found in project1_solution.ipynb file.
-
+The details of the results of this analysis are presented here: https://medium.com/@ioana.grigoropol/europe-versus-the-world-a-developers-view-18914262220c 
 ## Requirements
 This project was developed using Python version 3.6.0
 
