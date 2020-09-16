@@ -29,6 +29,10 @@ data/
 --------survey_results_schema.csv
 ```
 
+## Solution
+
+The solution for the above questions can be found in project1_solution.ipynb file.
+
 ## Requirements
 This project was developed using Python version 3.6.0
 
